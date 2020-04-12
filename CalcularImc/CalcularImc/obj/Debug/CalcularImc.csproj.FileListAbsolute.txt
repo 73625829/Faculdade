@@ -1,0 +1,10 @@
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.csprojAssemblyReference.cache
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.Form1.resources
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.Properties.Resources.resources
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.csproj.GenerateResource.cache
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.csproj.CoreCompileInputs.cache
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\bin\Debug\CalcularImc.exe.config
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\bin\Debug\CalcularImc.exe
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\bin\Debug\CalcularImc.pdb
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.exe
+C:\Users\jackson.lima\source\repos\CalcularImc\CalcularImc\obj\Debug\CalcularImc.pdb
